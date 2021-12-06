@@ -1,4 +1,4 @@
-module "github.com/qinsheng99/grpc-example"
+module github.com/qinsheng99/grpc-example
 
 go 1.15
 
