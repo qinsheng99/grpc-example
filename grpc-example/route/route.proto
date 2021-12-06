@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package route;
 
-option go_package = "github.com/qinsheng99/grpc-example/route";
+option go_package = "github.com/qinsheng99/grpc-example";
 /**
     描述一个向导服务，服务名为RouteGuide
     定义四种不同的信息类型分别为Point、Rectangle、Feature、RouteSummary以及Chat
